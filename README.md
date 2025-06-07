@@ -5,7 +5,7 @@
 Welcome to the **MachineLearning.ai Program Repository**! 🎉  
 This repository serves as a comprehensive archive of weekly assignments and solutions completed as part of the **MachineLearning.ai Program** by **IITG.ai**. It highlights my journey in mastering Machine Learning concepts and their practical implementations. 🚀  
 
-![Image Alt](https://github.com/Adityabaan/MachineLearning.ai-IIT_Guwahati/blob/1cc279e33e783325a7e1e5adac446441508330b9/images.jpeg) &nbsp; &nbsp; &nbsp; ![Image Alt](https://github.com/Adityabaan/MachineLearning.ai-IIT_Guwahati/blob/1cc279e33e783325a7e1e5adac446441508330b9/images.png)
+![Image Alt](https://github.com/Adityabaan/MachineLearning.ai-IIT_Guwahati/blob/1cc279e33e783325a7e1e5adac446441508330b9/images.jpeg) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Image Alt](https://github.com/Adityabaan/MachineLearning.ai-IIT_Guwahati/blob/1cc279e33e783325a7e1e5adac446441508330b9/images.png)
 
 
 Whether you’re a fellow participant, a curious learner, or just browsing, this repository aims to inspire and share knowledge. 🌐✨  
