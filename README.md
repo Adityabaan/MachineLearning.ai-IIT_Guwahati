@@ -29,12 +29,6 @@ The **MachineLearning.ai Program**, conducted by **IITG.ai**, is an intensive an
 
 ## 🗂️ Repository Structure
 
-Here’s how the repository is organized for ease of navigation:
-
-## Course Structure
-
-# Week - 1
-
 # 📝 MachineLearning.ai Weekly Assignments Overview
 ---
 
