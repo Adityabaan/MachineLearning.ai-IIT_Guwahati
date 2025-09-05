@@ -38,8 +38,9 @@ The **MachineLearning.ai Program**, conducted by **IITG.ai**, is an intensive an
 |----------|--------------------------------|-------------------------------------------------------|---------------------|
 | **1**    | **Introduction to ML**         | Fundamentals of ML, types of learning.                | ✅ Completed        |
 | **2**    | **Linear Regression & Optimization** | Implementation and gradient descent concepts.         | ✅ Completed        |
-| **3**    | **Classification Models**      | Logistic Regression, Decision Trees, etc.             | 🔄 In Progress      |
-| **4**    | **Deep Learning Basics**       | Neural Networks, Forward & Backpropagation.           | 🟢 Coming Soon      |
+| **3**    | **Classification Models**      | Logistic Regression, Decision Trees, etc.             | ✅ Completed      |
+| **4**    | **Deep Learning Basics**       | Neural Networks, Forward & Backpropagation.           | ✅ Completed      |
+| **5**    | **Neural Networks & Backpropagation**  | Neural networks, binary classification, gradient descent/backprop intuition and math, vectorization, activation functions, L-layer networks, NumPy/sklearn implementation, backprop breakdown, playlist from basics to LLMs. | ✅ Completed |
 
 ---
 
